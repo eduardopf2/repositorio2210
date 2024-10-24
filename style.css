@@ -1,0 +1,15 @@
+body{ 
+
+    background-color: azure;
+    color: chocolate;
+    text-align: center;
+
+} 
+
+a:hover{
+    background-color: #fff9f7;
+    font-size: larger;
+}
+nav a{
+    text-decoration: none;
+}
